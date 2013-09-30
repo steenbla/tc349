@@ -1,0 +1,43 @@
+body {
+	background: #A5DBFF;
+	border-top: 5px solid #CC6666;
+	margin: 0;
+	font-family: American Typewriter Light, American Typewriter, American Typewriter Condensed, sans-serif;
+}
+.container {
+	width: 700px;
+	margin: 0 auto;
+	padding-bottom: 60px;
+	background: #CCC;
+}
+#recipes {
+	width: 600px;
+	margin: 0 auto;
+	background-image:url(147874490_da5b362610_z.jpg);
+	padding: 0px 10px 10px 10px;	
+}
+h1, h2, h3 {
+	margin: 0;
+}
+h1 {
+	color: #FFFEEE;
+	font-size:36px;
+	text-align: center;
+	margin-bottom: 12px;
+	padding: 20px 15px;
+	text-shadow: 1px 1px 5px #000;
+}
+h2 {
+	font-weight: bold;
+}
+h3 {
+	font-weight: lighter;
+	margin-bottom: 5px;
+}
+table, tr, td {
+	border: 1px soild #000;
+	border-collapse: collapse;
+}
+table td {
+	padding: 5px;
+}
