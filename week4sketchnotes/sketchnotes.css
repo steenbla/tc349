@@ -1,0 +1,30 @@
+body {
+	background:#000;
+	border-top: 5px solid #999;
+	margin: 0;
+	font-family:"Arial Narrow", Arial, "Helvetica Light";
+	text-align: center;
+}
+.container {
+	width: 800px;
+	margin: 0 auto;
+	padding-bottom: 70px;
+	background: #CCC;
+}
+h1, h2 {
+	margin: 0;
+}
+h1 {
+	color: #FFF;
+	font-size:36px;
+	margin-bottom: 12px;
+	padding: 20px 15px;
+	text-shadow: 1px 1px 5px #000;
+}
+h2 {
+	font-weight: bold;
+	color: #666;
+}
+img {
+	border: 4px soild #000;
+}
