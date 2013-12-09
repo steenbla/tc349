@@ -1,0 +1,205 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'Amatic SC';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Amatic SC Regular'), local('AmaticSC-Regular'), url(http://themes.googleusercontent.com/static/fonts/amaticsc/v3/DPPfSFKxRTXvae2bKDzp5LO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+/* CSS Document */
+
+body {
+	background-image: url(img/seamless-parchment.jpg);
+	width: 800px;
+	margin: 0 auto;
+}
+.container {
+	
+}
+#about {
+	background-image: url(img/page_trans.png);
+	width: 780px;
+    height: 1000px;
+	color: #6f115a;
+	padding-top: 26px;
+	text-align:center;
+	border-top: solid; 
+	border-bottom: solid;
+	border-color:#a09833;
+	margin-top: 230px;
+	margin-bottom: 15px;
+}
+p {
+	font-family: 'Amatic SC';
+	margin: 0;
+	font-size: 28px;
+}
+header {
+	top: 0;
+	position:fixed;
+}
+nav
+{
+	position:absolute;
+	width: 680px;
+	background-image: url(img/PClogo_bag_80.png);
+	text-align:left;
+	height:20px;
+	padding:20px 60px;
+	padding-top: 177px;
+	margin-bottom: 30px;
+	font-family:'Amatic SC';
+}
+nav a
+{
+	font-size:20px;
+	font-weight: bolder;
+	margin:10px 0;height:20px;
+	padding:12px 35px;
+	color:#58204b;
+	text-decoration:none;
+}
+nav a:hover
+{
+	background-color:#a09833;
+}
+h1 {
+	margin: 0;
+	padding-top: 35px;
+	color: #6f115a;
+	font-family: "Abadi MT Condensed Light";
+	font-size: 40px;
+}
+h2 { 
+  margin: 0;
+	color: #6f115a;
+	font-size: 38px;
+	font-family: 'Helvetica', sans-serif;
+}
+h3 {
+	margin: 0;
+	font-family: "Abadi MT Condensed Light";
+	font-size: 22px;
+}
+h4 {
+	margin: 0;
+	font-family: "Abadi MT Condensed Light";
+	font-size:39px;
+}
+h5 {
+	margin: 0;
+	font-family:'Amatic SC';
+	font-size: 20px;
+}
+h6 {
+	margin: 0;
+	font-family: "Abadi MT Condensed Light";
+	font-size: 14px;
+	text-align: left;
+}
+h7{
+	margin: 0;
+	font-family: "Abadi MT Condensed Light";
+	font-size: 22px;
+}
+ul {
+	margin: 0;
+	font-family: Helvetica, sans-serif;
+}
+#photo {
+	width: 780px center;
+    height: 790px;
+	color: #6f115a;
+	padding-top: 30px;
+	text-align:center;
+	border-top: solid; 
+	border-bottom: solid;
+	border-color:#a09833;
+	margin-top: 230px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#slide {
+	background-image: url(img/Brown-Paper-Bag_photo_leaf.png);
+	width: 700px;
+    height: 516px;
+	margin-left: 40px;
+	margin-right: 40px;
+	padding-top: 32px;
+}	
+#party {
+	width: 780px center;
+	height:auto;
+	color: #6f115a;
+	padding-top: 30px;
+	text-align:center;
+	border-top: solid; 
+	border-color:#a09833;
+	margin-top: 230px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#reg {
+	width: 780px center;
+	height:300px;
+	color: #6f115a;
+	padding-top: 30px;
+	text-align:center;
+	border-top: solid;
+	border-bottom: solid; 
+	border-color:#a09833;
+	margin-top: 230px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#info {
+	width: 300px;
+	height:480px;
+	float:left;
+	margin-left: 45px;
+	margin-right: 45px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-bottom:solid;
+	border-color:#a09833;
+}
+#right_banner {
+	background-image:url(img/banner.png);
+	height: 68px;
+	width: 340px;
+	float:left;
+	margin-left: 25px;
+	margin-right: 25px;
+	padding-top: 65px;
+}
+#left_banner {
+	background-image:url(img/banner2.png);
+	height: 68px;
+	width: 340px;
+	float:left;
+	margin-left: 25px;
+	margin-right: 25px;
+	padding-top: 65px;
+}
+img {
+	border: solid;
+	border-color:#a09833;
+	margin-bottom: 5px;
+}
+#story {
+	width: 780px center;
+    height: auto;
+	color: #6f115a;
+	padding-top: 30px;
+	text-align:center;
+	border-top: solid; 
+	border-bottom: solid;
+	border-bottom: solid;
+	border-color:#a09833;
+	margin-top: 230px;
+	margin-bottom: 30px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
